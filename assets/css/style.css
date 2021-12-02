@@ -27,7 +27,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Playfair Display", serif;
+  font-family: "Poppins", sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -276,7 +276,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar a:hover, .navbar .active, .navbar li:hover > a {
-  color: #d9ba85;
+  color: rgb(76, 128, 38);
 }
 
 .navbar .dropdown ul {
@@ -474,7 +474,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero h1 {
   margin: 0;
   font-size: 48px;
-  font-weight: 700;
+  font-weight: 500;
   line-height: 56px;
   color: #fff;
   font-family: "Poppins", sans-serif;
@@ -487,7 +487,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero h2 {
   color: #eee;
   margin-bottom: 10px 0 0 0;
-  font-size: 22px;
+  font-size: 32px;
 }
 
 #hero .btns {
@@ -684,8 +684,8 @@ section {
   margin: 0;
   margin: 0;
   font-size: 36px;
-  font-weight: 700;
-  font-family: "Playfair Display", serif;
+  font-weight: 500;
+  font-family:"Poppins", sans-serif;
   color: #4C8026;
 }
 
@@ -1088,7 +1088,7 @@ section {
 .events .event-item h3 {
   font-weight: 600;
   font-size: 26px;
-  color: #cda45e;
+  color: #4C8026;
 }
 
 .events .event-item .price {
